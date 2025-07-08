@@ -29,9 +29,7 @@
 
 ---
 
-### 2. 🌱 **Grow With Farm**  
-🔧 MERN application for farm produce management and tracking  
-🔧 Role: Designed frontend UI, built backend API, connected to MongoDB  
+### 2. 🌱 **Grow With Farm**   
 🔗 [Repo](https://github.com/SwapnilSahare45/grow-with-farm)
 
 ---
