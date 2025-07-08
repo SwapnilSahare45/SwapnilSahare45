@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Swapnil Sahare
 
 🚀 Passionate **Full-Stack Web Developer** specializing in the **MERN Stack**  
-🎓 MCA (awaiting results) from Degree College of Physical Education, HVPM, Amravati  
+🎓 MCA (2025) from Degree College of Physical Education, HVPM, Amravati  
 📬 Open to work in **Frontend, Backend, or Full-Stack Development**
 
 ---
