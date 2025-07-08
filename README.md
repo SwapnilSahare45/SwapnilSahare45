@@ -64,6 +64,6 @@
 ## 🤝 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/swapnil-sahare-06a803318)  
-[![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat&logo=gmail)](mailto:youremail@example.com)
+[![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat&logo=gmail)](mailto:swapnilsahare45@example.com)
 
 ---
