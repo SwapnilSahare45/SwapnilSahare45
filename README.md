@@ -21,11 +21,12 @@
 
 ## 🚀 Featured Projects
 
-### 1. 📦 **Recipe Finder App**  
+### 1. 📦 **Recipe Finder**  
 🔧 *Frontend:* React, Vite, Tailwind CSS  
 🔧 *Backend:* Node.js, Express, MongoDB  
-🔧 Features: Full CRUD, user authentication (JWT), responsive UI  
-🔗 [Frontend Repo](https://github.com/SwapnilSahare45/Recipes-frontend) • [Backend Repo](https://github.com/SwapnilSahare45/Recipes-backend)
+🔧 *Deployed:* Frontend on **Vercel**, Backend on **Render**  
+🔧 Features: Full CRUD, JWT authentication, responsive UI  
+🔗 [Repo](https://github.com/SwapnilSahare45/RecipesFinder)
 
 ---
 
@@ -65,5 +66,3 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/swapnil-sahare-06a803318)  
 [![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat&logo=gmail)](mailto:swapnilsahare45@example.com)
-
----
