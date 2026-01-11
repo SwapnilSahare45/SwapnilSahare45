@@ -9,12 +9,8 @@ I'm a **Full-Stack Developer** passionate about crafting high-performance, visua
 - 💬 **Let's Talk Tech:** Ask me about React, Node.js, Express, or why MongoDB is my go-to database.
 - ⚡ **Fun Fact:** I build luxury web apps for fun because I love clean code and premium user experiences!
 
+---
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/swapnil-sahare-06a803318) 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:swapnilsahare45@gmail.com) 
-[![X](https://img.shields.io/badge/X-%23000000.svg?logo=x&logoColor=white)](https://x.com/Swapnil_Sahare_)
- 
 # 💻 Tech Stack:
 
 ### 🌐 Frontend Development
@@ -27,14 +23,28 @@ I'm a **Full-Stack Developer** passionate about crafting high-performance, visua
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### 🔧 Tools & Deployment
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=SwapnilSahare45&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=SwapnilSahare45&theme=dark&hide_border=false)<br/>
+---
+
+# 📊 Activity & Stats:
+
+### 📈 My Weekly Coding Activity
+![](https://github-readme-stats.vercel.app/api/wakatime?username=SwapnilSahare45&theme=dark&layout=compact)
+
+### 🐙 GitHub Overview
+![](https://github-readme-stats.vercel.app/api?username=SwapnilSahare45&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+![](https://nirzak-streak-stats.vercel.app/?user=SwapnilSahare45&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SwapnilSahare45&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+
+## 🌐 Connect with Me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/swapnil-sahare-06a803318) 
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:swapnilsahare45@gmail.com) 
+[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Swapnil_Sahare_)
+
+---
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
