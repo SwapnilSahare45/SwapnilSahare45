@@ -30,7 +30,7 @@ I'm a **Full-Stack Developer** passionate about crafting high-performance, visua
 # 📊 Activity & Stats:
 
 ### 📈 My Weekly Coding Activity
-![](https://github-readme-stats.vercel.app/api/wakatime?username=SwapnilSahare45&theme=dark&layout=compact)
+![](https://github-readme-stats-eight-theta.vercel.app/api/wakatime?username=SwapnilSahare45&theme=dark&layout=compact)
 
 ### 🐙 GitHub Overview
 ![](https://github-readme-stats.vercel.app/api?username=SwapnilSahare45&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
