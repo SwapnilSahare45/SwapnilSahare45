@@ -1,5 +1,13 @@
 # 💫 About Me:
-Artora (Art Auction Platform)<br>MERN Stack or Next.js projects<br>Advanced Next.js App Router and complex MongoDB Aggregations<br>Next.js, TypeScript and PostgreSQL<br>React, Node.js, Express, and MongoDB (MERN)<br>I build luxury web apps for fun!
+
+I'm a **Full-Stack Developer** passionate about crafting high-performance, visually stunning web applications. Currently, I'm deep-diving into the world of luxury platforms and high-stakes logic.
+
+- 🔭 **Currently Building:** [Artora](https://artora-kappa.vercel.app/) — A premium Art Auction platform designed for collectors and artists.
+- 👯 **Open to Collaboration:** I love working on MERN stack projects or anything involving Next.js.
+- 🤝 **Seeking Expertise:** Always looking to level up my skills in **Next.js App Router** architecture and advanced **MongoDB Aggregation** pipelines.
+- 🌱 **Learning Journey:** Currently mastering **Next.js**, **TypeScript**, and **PostgreSQL** to build more robust and scalable systems.
+- 💬 **Let's Talk Tech:** Ask me about React, Node.js, Express, or why MongoDB is my go-to database.
+- ⚡ **Fun Fact:** I build luxury web apps for fun because I love clean code and premium user experiences!
 
 
 ## 🌐 Socials:
